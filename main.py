@@ -8,12 +8,12 @@ from instagrapi import Client
 # CONFIG — EDIT THESE VALUES
 # ==================================================
 
-INSTAGRAM_USERNAME = "YOUR_INSTAGRAM_USERNAME"
-INSTAGRAM_PASSWORD = "YOUR_INSTAGRAM_PASSWORD"
+INSTAGRAM_USERNAME = "asdabdb22"
+INSTAGRAM_PASSWORD = "asdabdb221"
 
-TARGET_USERNAME = "TARGET_ACCOUNT_USERNAME"
+TARGET_USERNAME = "__alex1a_1"
 
-DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/WEBHOOK_ID/WEBHOOK_TOKEN"
+DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1453510203185303676/7Ki35hA1OPXjv9Q_8aKzi6HwvWFmkrLZpE1VwCGdLvQrURDx7d2DjeqRGDznLoEcOsuU"
 
 CHECK_INTERVAL = 120  # seconds (2 minutes recommended)
 
